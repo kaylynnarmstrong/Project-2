@@ -2,7 +2,7 @@
 
 Submitted by: **Kaylynn Armstrong**
 
-**Kaylynn Armstrong** is a wishlist app that helps the user keep track of what they want to buy.
+**Wishlist** is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: **2** hours spent in total
 
